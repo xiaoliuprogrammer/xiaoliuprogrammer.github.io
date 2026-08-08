@@ -1,0 +1,24 @@
+BODY {
+    color: black;
+    background-color: #F2DDDE;
+}
+H1 {
+    font-family: 宋体;
+    font-size: 9pt;
+}
+P {
+    font-family: 宋体;
+    font-size: 9pt;
+}
+A {
+    font-family: 宋体;
+    font-size: 9pt;
+    color: #4D3A59;
+    text-decoration: none;
+}
+A:hover {
+    font-family: 宋体;
+    font-size: 9pt;
+    color: #465E65;
+    text-decoration: none;
+}
